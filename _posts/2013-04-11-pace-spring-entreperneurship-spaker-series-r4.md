@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PACE Spring Entrepreneurship Speaker Series - Round 4"
+title: "PACE Spring Entrepreneurship Speaker Series Round 4"
 date: 2013-04-11 19:00:00
 Location: "Steinberg 221"
 categories: event
