@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Entrepreneurship Series Round 2: Jake Stein"
+title: "PACE Spring Entrepreneurship Series Round 2: Jake Stein"
 date: 2013-03-21 19:00:00
 Location: "Huntsman Hall G55"
 categories: event
