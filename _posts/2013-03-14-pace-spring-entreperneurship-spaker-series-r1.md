@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PACE Spring Entrepreneurship Speaker Series - Round 1"
+title: "PACE Spring Entrepreneurship Speaker Series Round 1"
 date: 2013-03-14 17:30:00
 Location: "Huntsman Hall 260"
 categories: event
