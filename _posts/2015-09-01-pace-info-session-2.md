@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PACE Info Session #2"
-date: 2015-10-01 18:30:00
+date: 2015-09-01 18:30:00
 Location: "JMHH 255"
 categories: event
 ---
