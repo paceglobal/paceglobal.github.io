@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Race for Israeli Startups: A Chat with Sam Chester"
-date: 2015-11-28 19:00:00
+date: 2015-09-28 19:00:00
 Location: "Huntsman Hall 265"
 categories: event
 ---
