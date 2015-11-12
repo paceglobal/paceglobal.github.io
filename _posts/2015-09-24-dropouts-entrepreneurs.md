@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dropout Entrepreneurs: College vs. Company"
-date: 2015-10-24 18:00:00
+date: 2015-09-24 18:00:00
 Location: "SHDH 215"
 categories: event
 ---
