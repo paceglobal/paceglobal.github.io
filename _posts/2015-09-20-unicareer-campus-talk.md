@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UniCareer Campus Talk - How to Achieve Success in Your Career"
-date: 2015-10-20 14:00:00
+date: 2015-09-20 14:00:00
 Location: "SHDH 215"
 categories: event
 ---
