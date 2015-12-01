@@ -15,4 +15,4 @@ Have a great startup idea but need practice selling it? Still thinking about pos
 **Yue Li:** Yue Li was born in a small southern city in China. She moved with her parents to the U.S. at age 6, and spent most of her childhood in Michigan. She is currently pursuing an MBA/MA in International Studies joint-degree through the Wharton school and the Lauder Institute at the University of Pennsylvania. Prior to graduate school, she worked in NYC as a management consultant for Oliver Wyman Financial Services, and then in business operations for Venmo, the mobile payments app. She holds a bachelor's degree in mechanical engineering from MIT.
 
 **Location:** JMHH 370 <br />
-**Time:** 7:00-9:00 PM
+**Time:** 7:00-8:00 PM
